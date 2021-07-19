@@ -43,3 +43,7 @@
 ![Profile views](https://gpvc.arturio.dev/sonim1)
   
 </div>
+
+<h2 align="center">Blog posts</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
