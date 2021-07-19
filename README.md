@@ -45,6 +45,7 @@
 </div>
 
 <h2 align="center">Blog posts</h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [마케팅 - 콜드 메일(Cold mail)이란?](https://blog.sonim1.com/250)
 - [Paywall을 위한 CSS linear-gradient](https://blog.sonim1.com/249)
