@@ -46,7 +46,7 @@
   
 </div>
 
-# Blog posts
+<h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
