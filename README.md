@@ -49,9 +49,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [홈페이지 디자인을 위한 줄 바꿈 위치 제한 - &shy;](https://blog.sonim1.com/251)
 - [마케팅 - 콜드 메일(Cold mail)이란?](https://blog.sonim1.com/250)
 - [Paywall을 위한 CSS linear-gradient](https://blog.sonim1.com/249)
 - [2020년 회고](https://blog.sonim1.com/248)
 - [Mac OS Big Sur 메뉴바 밝기 이슈](https://blog.sonim1.com/247)
-- [안돈 코드 - Andon Cord](https://blog.sonim1.com/246)
 <!-- BLOG-POST-LIST:END -->
