@@ -49,7 +49,7 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [홈페이지 디자인을 위한 줄 바꿈 위치 제한 - &shy;](https://blog.sonim1.com/251)
+- [홈페이지 디자인을 위한 줄 바꿈 위치 제안 - &shy;](https://blog.sonim1.com/251)
 - [마케팅 - 콜드 메일(Cold mail)이란?](https://blog.sonim1.com/250)
 - [Paywall을 위한 CSS linear-gradient](https://blog.sonim1.com/249)
 - [2020년 회고](https://blog.sonim1.com/248)
