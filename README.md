@@ -49,9 +49,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [자바스크립트 Spreadsheet 라이브러리 추천](https://blog.sonim1.com/254)
 - [명암 대비를 고려한 디자인 - WCGA 2.1 Contrast](https://blog.sonim1.com/253)
 - [독서 모임을 유지하기 위한 방법](https://blog.sonim1.com/252)
 - [홈페이지 디자인을 위한 줄 바꿈 위치 제안 - &amp;shy;](https://blog.sonim1.com/251)
 - [마케팅 - 콜드 메일&lpar;Cold mail&rpar;이란?](https://blog.sonim1.com/250)
-- [Paywall을 위한 CSS linear-gradient](https://blog.sonim1.com/249)
 <!-- BLOG-POST-LIST:END -->
