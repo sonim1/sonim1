@@ -54,9 +54,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [새로운 블로그로 이전 완료](https://blog.sonim1.com/258)
 - [2022년 회고](https://blog.sonim1.com/257)
 - [바닐라 코딩 인터뷰 내용 정리](https://blog.sonim1.com/256)
 - [결혼 모바일 초대장 후기](https://blog.sonim1.com/255)
 - [자바스크립트 Spreadsheet 라이브러리 추천](https://blog.sonim1.com/254)
-- [명암 대비를 고려한 디자인 - WCGA 2.1 Contrast](https://blog.sonim1.com/253)
 <!-- BLOG-POST-LIST:END -->
