@@ -44,9 +44,9 @@
 <h2 align="center">Github Stats</h2>
 
 <div align="center">
-  
-![Sonim1's GitHub stats](https://github-readme-stats-three-mu-61.vercel.app/api?username=sonim1&show_icons=true&theme=radical&bg_color=90,fed7d7,feebc8,fefcbf,fefcbf,fefcbf,fefcbf&&text_color=000&icon_color=e00000&title_color=000000c2)
 
+<img decoding="async" loading="lazy" align="center" alt="Kendrick's GitHub Stats" src="https://github-readme-stats-three-mu-61.vercel.app/api?username=sonim1&show_icons=true&theme=radical&bg_color=90,fed7d7,feebc8,fefcbf,fefcbf,fefcbf,fefcbf&&text_color=000&icon_color=e00000&title_color=000000c2" />
+  
 ![Profile views](https://komarev.com/ghpvc/?username=sonim1)
   
 </div>
