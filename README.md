@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img decoding="async" loading="lazy" align="center" alt="Kendrick's GitHub Stats" src="https://sonim1.github.io/github-readme-stats/stats.svg" />
+<img decoding="async" loading="lazy" align="center" alt="Kendrick's GitHub Stats" src="https://sonim1.github.io/github-readme-stats/stats.svg?date=20231217" />
 
 </div>
 <div align="center">
