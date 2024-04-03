@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [새로운 블로그로 이전 완료](https://blog.sonim1.com/258)
-- [2022년 회고](https://blog.sonim1.com/257)
-- [바닐라 코딩 인터뷰 내용 정리](https://blog.sonim1.com/256)
-- [결혼 모바일 초대장 후기](https://blog.sonim1.com/255)
-- [자바스크립트 Spreadsheet 라이브러리 추천](https://blog.sonim1.com/254)
+- [쉽고 빠르게 익히는 실전 LLM](https://dev.sonim1.com/ko/blog/review-quick-start-guide-to-llm/)
+- [PostgreSQL의 JSONB 타입이란](https://dev.sonim1.com/ko/blog/what-is-the-jsonb/)
+- [딥러닝의 정석 2판 Fundamentals of Deep Learning 2nd edition](https://dev.sonim1.com/ko/blog/review-fundamentals-of-deep-learning-2nd-edition/)
+- [Assistants API는 LangChain을 대체할 수 있을까?](https://dev.sonim1.com/ko/blog/assistants-api-vs-langchain-can-it-replace/)
+- [뽀모도로&lpar;Pomodoro&rpar;와 딥 워크&lpar;Deep work&rpar; 기법](https://dev.sonim1.com/ko/blog/pomodoro-vs-deepwork/)
 <!-- BLOG-POST-LIST:END -->
