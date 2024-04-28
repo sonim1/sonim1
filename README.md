@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [도시를 만드는 기술 이야기](https://dev.sonim1.com/ko/blog/review-engineering-in-plain-sight/)
 - [쉽고 빠르게 익히는 실전 LLM](https://dev.sonim1.com/ko/blog/review-quick-start-guide-to-llm/)
 - [PostgreSQL의 JSONB 타입이란](https://dev.sonim1.com/ko/blog/what-is-the-jsonb/)
 - [딥러닝의 정석 2판 Fundamentals of Deep Learning 2nd edition](https://dev.sonim1.com/ko/blog/review-fundamentals-of-deep-learning-2nd-edition/)
 - [Assistants API는 LangChain을 대체할 수 있을까?](https://dev.sonim1.com/ko/blog/assistants-api-vs-langchain-can-it-replace/)
-- [뽀모도로&lpar;Pomodoro&rpar;와 딥 워크&lpar;Deep work&rpar; 기법](https://dev.sonim1.com/ko/blog/pomodoro-vs-deepwork/)
 <!-- BLOG-POST-LIST:END -->
