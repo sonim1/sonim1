@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [실무로 통하는 타입 스크립트 - TypeScript  Cookbook](https://dev.sonim1.com/ko/blog/review-typescript-cookbook/)
 - [개발자를 위한 필수 수학](https://dev.sonim1.com/ko/blog/review-essential-math-for-data-science/)
 - [도시를 만드는 기술 이야기](https://dev.sonim1.com/ko/blog/review-engineering-in-plain-sight/)
 - [쉽고 빠르게 익히는 실전 LLM](https://dev.sonim1.com/ko/blog/review-quick-start-guide-to-llm/)
 - [PostgreSQL의 JSONB 타입이란](https://dev.sonim1.com/ko/blog/what-is-the-jsonb/)
-- [딥러닝의 정석 2판 Fundamentals of Deep Learning 2nd edition](https://dev.sonim1.com/ko/blog/review-fundamentals-of-deep-learning-2nd-edition/)
 <!-- BLOG-POST-LIST:END -->
