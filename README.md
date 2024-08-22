@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [월 20달러로 고용하는 AI 변호사 with 챗GPT](https://sonim1.com/ko/blog/review-ai-lawyer-with-chatgpt/)
 - [실무로 통하는 타입 스크립트 - TypeScript  Cookbook](https://sonim1.com/ko/blog/review-typescript-cookbook/)
 - [개발자를 위한 필수 수학](https://sonim1.com/ko/blog/review-essential-math-for-data-science/)
 - [도시를 만드는 기술 이야기](https://sonim1.com/ko/blog/review-engineering-in-plain-sight/)
 - [쉽고 빠르게 익히는 실전 LLM](https://sonim1.com/ko/blog/review-quick-start-guide-to-llm/)
-- [PostgreSQL의 JSONB 타입이란](https://sonim1.com/ko/blog/what-is-the-jsonb/)
 <!-- BLOG-POST-LIST:END -->
