@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[도서 리뷰] AI 트루스](https://sonim1.com/ko/blog/review-ai-truth/)
 - [알아두면 좋은 GIT 명령어들](https://sonim1.com/ko/blog/git-commands-that-are-good-to-know/)
-- [월 20달러로 고용하는 AI 변호사 with 챗GPT](https://sonim1.com/ko/blog/review-ai-lawyer-with-chatgpt/)
-- [실무로 통하는 타입 스크립트 - TypeScript  Cookbook](https://sonim1.com/ko/blog/review-typescript-cookbook/)
-- [개발자를 위한 필수 수학](https://sonim1.com/ko/blog/review-essential-math-for-data-science/)
-- [도시를 만드는 기술 이야기](https://sonim1.com/ko/blog/review-engineering-in-plain-sight/)
+- [[도서 리뷰] 월 20달러로 고용하는 AI 변호사 with 챗GPT](https://sonim1.com/ko/blog/review-ai-lawyer-with-chatgpt/)
+- [[도서 리뷰] 실무로 통하는 타입 스크립트 - TypeScript  Cookbook](https://sonim1.com/ko/blog/review-typescript-cookbook/)
+- [[도서 리뷰] 개발자를 위한 필수 수학](https://sonim1.com/ko/blog/review-essential-math-for-data-science/)
 <!-- BLOG-POST-LIST:END -->
