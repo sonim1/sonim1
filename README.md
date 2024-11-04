@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Omnivore&lpar;Read it later App&rpar; 서비스 종료](https://sonim1.com/ko/blog/omnivore-service-has-been-terminated/)
 - [[도서 리뷰] 테라폼으로 시작하는 IaC](https://sonim1.com/ko/blog/review-iac-with-terraform/)
 - [PostgreSQL의 Dead Tuple과 Vacuum](https://sonim1.com/ko/blog/postgresql-deadtuple-and-autovacuum/)
 - [[도서 리뷰] AI 트루스](https://sonim1.com/ko/blog/review-ai-truth/)
 - [알아두면 좋은 GIT 명령어들](https://sonim1.com/ko/blog/git-commands-that-are-good-to-know/)
-- [[도서 리뷰] 월 20달러로 고용하는 AI 변호사 with 챗GPT](https://sonim1.com/ko/blog/review-ai-lawyer-with-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
