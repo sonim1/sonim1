@@ -57,7 +57,7 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [[도서 리뷰] 밑바닥부터 시작하는 딥러닝5 리뷰](https://sonim1.com/ko/blog/review-deep-learning-from-scratch-5/)
+- [[도서 리뷰] 밑바닥부터 시작하는 딥러닝5](https://sonim1.com/ko/blog/review-deep-learning-from-scratch-5/)
 - [Omnivore&lpar;Read it later App&rpar; 서비스 종료](https://sonim1.com/ko/blog/omnivore-service-has-been-terminated/)
 - [[도서 리뷰] 테라폼으로 시작하는 IaC](https://sonim1.com/ko/blog/review-iac-with-terraform/)
 - [PostgreSQL의 Dead Tuple과 Vacuum](https://sonim1.com/ko/blog/postgresql-deadtuple-and-autovacuum/)
