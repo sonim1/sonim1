@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[도서 리뷰] 러닝 랭체인, 랭체인과 랭그래프로 구현하는 RAG, 에이전트, 인지 아키텍처](https://sonim1.com/ko/blog/review-learning-langchain/)
 - [LLM의 Thinking, Reasoning 그리고 Deep Research](https://sonim1.com/ko/blog/llm-thinking-reasoning-deep-research/)
 - [[도서리뷰] LLM 서비스 설계와 최적화 - 비용은 낮추고 성능은 극대화하는 AI 서비스 구축과 운영 가이드](https://sonim1.com/ko/blog/review-large-language-model-based-solutions/)
 - [[도서리뷰] ChatGPT 일타강사의 직장인 업무 만렙 공략집](https://sonim1.com/ko/blog/review-chatgpt-office-productivity-master-guide/)
 - [[도서리뷰] 그림으로 개념을 이해하는 그로킹 알고리즘&lpar;개정판&rpar;](https://sonim1.com/ko/blog/review-grokking-algorithms-2nd-edition/)
-- [2024년 회고](https://sonim1.com/ko/blog/retrospective-2023mdoc/)
 <!-- BLOG-POST-LIST:END -->
