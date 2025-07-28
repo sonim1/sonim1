@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [[도서 리뷰] 러닝 랭체인, 랭체인과 랭그래프로 구현하는 RAG, 에이전트, 인지 아키텍처](https://sonim1.com/ko/blog/review-learning-langchain/)
+- [잘되는 머신러닝 팀엔 이유가 있다](https://sonim1.com/ko/blog/review-effective-machine-learning-teams/)
 - [[Book Review] Learning LangChain: Implementing RAG, Agents, and Cognitive Architecture with LangChain and LangGraph](https://sonim1.com/en/blog/review-learning-langchain/)
-- [LLM의 Thinking, Reasoning 그리고 Deep Research](https://sonim1.com/ko/blog/llm-thinking-reasoning-deep-research/)
+- [[도서 리뷰] 러닝 랭체인, 랭체인과 랭그래프로 구현하는 RAG, 에이전트, 인지 아키텍처](https://sonim1.com/ko/blog/review-learning-langchain/)
 - [LLM&#39;s Thinking, Reasoning and Deep Research](https://sonim1.com/en/blog/llm-thinking-reasoning-deep-research/)
-- [[도서리뷰] LLM 서비스 설계와 최적화 - 비용은 낮추고 성능은 극대화하는 AI 서비스 구축과 운영 가이드](https://sonim1.com/ko/blog/review-large-language-model-based-solutions/)
+- [LLM의 Thinking, Reasoning 그리고 Deep Research](https://sonim1.com/ko/blog/llm-thinking-reasoning-deep-research/)
 <!-- BLOG-POST-LIST:END -->
