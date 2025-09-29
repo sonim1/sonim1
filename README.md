@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [블로그 - 26개 프로젝트로 끝내는 콘텐츠 디자인 with 챗GPT](https://sonim1.com/ko/blog/review-26-contents-design-projects-with-chatgpt/)
+- [Finding UX Through the Data Grind](https://sonim1.com/en/blog/review-data-driven-ux-design/)
+- [데이터 삽질 끝에 UX가 보였다](https://sonim1.com/ko/blog/review-data-driven-ux-design/)
 - [Book Review - 26 Content Design Projects with ChatGPT](https://sonim1.com/en/blog/review-26-contents-design-projects-with-chatgpt/)
+- [블로그 - 26개 프로젝트로 끝내는 콘텐츠 디자인 with 챗GPT](https://sonim1.com/ko/blog/review-26-contents-design-projects-with-chatgpt/)
 - [잘되는 머신러닝 팀엔 이유가 있다](https://sonim1.com/ko/blog/review-effective-machine-learning-teams/)
-- [[Book Review] Learning LangChain: Implementing RAG, Agents, and Cognitive Architecture with LangChain and LangGraph](https://sonim1.com/en/blog/review-learning-langchain/)
-- [[도서 리뷰] 러닝 랭체인, 랭체인과 랭그래프로 구현하는 RAG, 에이전트, 인지 아키텍처](https://sonim1.com/ko/blog/review-learning-langchain/)
 <!-- BLOG-POST-LIST:END -->
