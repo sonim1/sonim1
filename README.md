@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Vibe Coding - A Developer&#39;s Survival Guide](https://sonim1.com/en/blog/review-beyond-vibe-coding/)
+- [바이브 코딩을 넘어 개발자 생존법](https://sonim1.com/ko/blog/review-beyond-vibe-coding/)
 - [Finding UX Through the Data Grind](https://sonim1.com/en/blog/review-data-driven-ux-design/)
 - [데이터 삽질 끝에 UX가 보였다](https://sonim1.com/ko/blog/review-data-driven-ux-design/)
 - [Book Review - 26 Content Design Projects with ChatGPT](https://sonim1.com/en/blog/review-26-contents-design-projects-with-chatgpt/)
-- [블로그 - 26개 프로젝트로 끝내는 콘텐츠 디자인 with 챗GPT](https://sonim1.com/ko/blog/review-26-contents-design-projects-with-chatgpt/)
-- [잘되는 머신러닝 팀엔 이유가 있다](https://sonim1.com/ko/blog/review-effective-machine-learning-teams/)
 <!-- BLOG-POST-LIST:END -->
