@@ -57,9 +57,9 @@
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 Year in Review](https://sonim1.com/en/blog/retrospective-2025/)
+- [2025년 회고](https://sonim1.com/ko/blog/retrospective-2025/)
 - [[도서 리뷰] Dify AI, 코드 없는 미래 - 클릭만으로 업무 프로세스 리빌드, 노코드 AI 자동화 실전 가이드](https://sonim1.com/ko/blog/review-dify-ai/)
 - [[Book Review] Dify AI, The No-Code Future](https://sonim1.com/en/blog/review-dify-ai/)
 - [[Book Review] Beyond Vibe Coding - A Developer&#39;s Survival Guide](https://sonim1.com/en/blog/review-beyond-vibe-coding/)
-- [[도서 리뷰] 바이브 코딩을 넘어 개발자 생존법](https://sonim1.com/ko/blog/review-beyond-vibe-coding/)
-- [[Book Review] Finding UX Through the Data Grind](https://sonim1.com/en/blog/review-data-driven-ux-design/)
 <!-- BLOG-POST-LIST:END -->
