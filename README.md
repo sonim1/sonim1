@@ -36,9 +36,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [](https://sonim1.com/ko/blog/obsidian-zettelkasten-with-para/)
-- [](https://sonim1.com/en/blog/retrospective-2025/)
+- [2025 Year in Review](https://sonim1.com/en/blog/retrospective-2025/)
 - [](https://sonim1.com/ko/blog/retrospective-2025/)
-- [](https://sonim1.com/en/blog/review-dify-ai/)
+- [[Book Review] Dify AI, The No-Code Future](https://sonim1.com/en/blog/review-dify-ai/)
 - [](https://sonim1.com/ko/blog/review-dify-ai/)
 <!-- BLOG-POST-LIST:END -->
 
