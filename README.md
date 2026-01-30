@@ -35,11 +35,11 @@
 <h3 align="center">Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Era of Sharing PRDs Made with Prompts](https://sonim1.com/en/blog/sharing-prd-made-with-prompts/)
+- [Building a Zettelkasten with Obsidian... with a side of PARA](https://sonim1.com/en/blog/obsidian-zettelkasten-with-para/)
 - [2025 Year in Review](https://sonim1.com/en/blog/retrospective-2025/)
 - [[Book Review] Dify AI, The No-Code Future](https://sonim1.com/en/blog/review-dify-ai/)
 - [[Book Review] Beyond Vibe Coding - A Developer's Survival Guide](https://sonim1.com/en/blog/review-beyond-vibe-coding/)
-- [[Book Review] Finding UX Through the Data Grind](https://sonim1.com/en/blog/review-data-driven-ux-design/)
-- [[Book Review] 26 Content Design Projects with ChatGPT](https://sonim1.com/en/blog/review-26-contents-design-projects-with-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
