@@ -1,15 +1,60 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every day
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://sonim1.com/rss.xml"
-          item_exec: "post.title = JSON.stringify(post).includes('/en/blog/') ? post.title : ''"
+      - uses: actions/checkout@v4
+      - name: Fetch English blog posts and update README
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import re
+
+          rss = urllib.request.urlopen('https://sonim1.com/rss.xml').read()
+          root = ET.fromstring(rss)
+
+          posts = []
+          for item in root.iter('item'):
+              title_el = item.find('title')
+              link_el = item.find('link')
+              if title_el is not None and link_el is not None:
+                  title = (title_el.text or '').strip()
+                  link = (link_el.text or '').strip()
+                  if '/en/' in link and title:
+                      posts.append(f'- [{title}]({link})')
+                      if len(posts) >= 5:
+                          break
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          marker_start = '<!-- BLOG-POST-LIST:START -->'
+          marker_end = '<!-- BLOG-POST-LIST:END -->'
+          new_posts = '\n'.join(posts)
+          replacement = f'{marker_start}\n{new_posts}\n{marker_end}'
+          content = re.sub(
+              f'{re.escape(marker_start)}.*?{re.escape(marker_end)}',
+              replacement,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(content)
+
+          print(f'Updated README with {len(posts)} English blog posts')
+          PYEOF
+      - name: Commit changes
+        run: |
+          git diff --quiet README.md && echo "No changes" && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated with the latest blog posts"
+          git push
