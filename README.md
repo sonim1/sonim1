@@ -35,11 +35,11 @@
 <h3 align="center">Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Obsidian으로 Zettelkasten 구축하기... PARA를 곁들인](https://sonim1.com/ko/blog/obsidian-zettelkasten-with-para/)
-- [2025 Year in Review](https://sonim1.com/en/blog/retrospective-2025/)
-- [2025년 회고](https://sonim1.com/ko/blog/retrospective-2025/)
-- [[Book Review] Dify AI, The No-Code Future](https://sonim1.com/en/blog/review-dify-ai/)
-- [[도서 리뷰] Dify AI, 코드 없는 미래 - 클릭만으로 업무 프로세스 리빌드, 노코드 AI 자동화 실전 가이드](https://sonim1.com/ko/blog/review-dify-ai/)
+- [](https://sonim1.com/ko/blog/obsidian-zettelkasten-with-para/)
+- [](https://sonim1.com/en/blog/retrospective-2025/)
+- [](https://sonim1.com/ko/blog/retrospective-2025/)
+- [](https://sonim1.com/en/blog/review-dify-ai/)
+- [](https://sonim1.com/ko/blog/review-dify-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
