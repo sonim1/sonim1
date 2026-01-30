@@ -5,14 +5,28 @@
 </div>
 
 <div align="center">
-<sub>Toronto, Canada · Building products that matter · Writing about tech & life</sub>
+<sub>Toronto, Canada · Building products that matter</sub>
 </div>
 
 <br/>
 
 <div align="center">
 
-[`Blog`](https://sonim1.com/) · [`YouTube`](https://www.youtube.com/user/bumfoo) · [`LinkedIn`](https://linkedin.com/in/sonim1) · [`Email`](mailto:bumfoo@gmail.com)
+[`Website`](https://sonim1.com/) · [`YouTube`](https://www.youtube.com/user/bumfoo) · [`LinkedIn`](https://linkedin.com/in/sonim1) · [`Email`](mailto:bumfoo@gmail.com)
+
+</div>
+
+---
+
+<h3 align="center">🚀 3D Virtual Workspace</h3>
+
+<div align="center">
+
+<a href="https://welcome.sonim1.com">
+  <img src="https://img.shields.io/badge/Launch_Workspace-006DFF?style=for-the-badge&logo=three.js&logoColor=white" alt="Launch 3D Workspace" />
+</a>
+<br/>
+<sub>Explore my interactive 3D virtual workspace</sub>
 
 </div>
 
@@ -32,7 +46,7 @@
 
 ---
 
-<h3 align="center">Latest Blog Posts</h3>
+<h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [The Era of Sharing PRDs Made with Prompts](https://sonim1.com/en/blog/sharing-prd-made-with-prompts/)

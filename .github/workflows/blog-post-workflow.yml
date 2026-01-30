@@ -1,11 +1,11 @@
-name: Latest blog post workflow
+name: Latest post workflow
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -48,7 +48,7 @@ jobs:
           with open('README.md', 'w') as f:
               f.write(content)
 
-          print(f'Updated README with {len(posts)} English blog posts')
+          print(f'Updated README with {len(posts)} English posts')
           PYEOF
       - name: Commit changes
         run: |
@@ -56,5 +56,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Updated with the latest blog posts"
+          git commit -m "Updated with the latest posts"
           git push
