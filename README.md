@@ -32,20 +32,6 @@
 
 ---
 
-<h3 align="center">GitHub Streak</h3>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=sonim1&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=sonim1&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
-  <img alt="Kendrick's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=sonim1&hide_border=true&background=00000000" />
-</picture>
-
-</div>
-
----
-
 <h3 align="center">Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
