@@ -49,11 +49,11 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [BOM (Byte Order Mark) and CSV](https://sonim1.com/en/blog/bom-byte-order-mark-and-csv/)
 - [The Era of Sharing PRDs Made with Prompts](https://sonim1.com/en/blog/sharing-prd-made-with-prompts/)
 - [Building a Zettelkasten with Obsidian... with a side of PARA](https://sonim1.com/en/blog/obsidian-zettelkasten-with-para/)
 - [2025 Year in Review](https://sonim1.com/en/blog/retrospective-2025/)
 - [[Book Review] Dify AI, The No-Code Future](https://sonim1.com/en/blog/review-dify-ai/)
-- [[Book Review] Beyond Vibe Coding - A Developer's Survival Guide](https://sonim1.com/en/blog/review-beyond-vibe-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
