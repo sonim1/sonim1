@@ -51,9 +51,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Oh My ClaudeCode: Legal Doping for Claude Code](https://sonim1.com/en/blog/oh-my-claudecode/)
 - [4 Days with OpenClaw: I Got an AI Assistant](https://sonim1.com/en/blog/openclaw-4-days-review/)
+- [Vibe Coding vs Auto Programming](https://sonim1.com/en/blog/vibe-coding-vs-auto-programming/)
 - [BOM (Byte Order Mark) and CSV](https://sonim1.com/en/blog/bom-byte-order-mark-and-csv/)
 - [The Era of Sharing PRDs Made with Prompts](https://sonim1.com/en/blog/sharing-prd-made-with-prompts/)
-- [Building a Zettelkasten with Obsidian... with a side of PARA](https://sonim1.com/en/blog/obsidian-zettelkasten-with-para/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
