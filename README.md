@@ -50,10 +50,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Claude Code /insights - Your Personal AI Coding Report](https://sonim1.com/en/blog/claude-code-insights/)
+- [Claude Code Agent Teams: The Beginning of Real-time Agent Collaboration](https://sonim1.com/en/blog/claude-code-agent-teams/)
 - [If You're Avoiding AI Tools Because of Security Concerns](https://sonim1.com/en/blog/ai-security-concerns/)
 - [$50 Credit for Claude Opus 4.6 Launch: What You Need to Know](https://sonim1.com/en/blog/claude-opus-4-6-credit/)
 - [Oh My ClaudeCode: Legal Doping for Claude Code](https://sonim1.com/en/blog/oh-my-claudecode/)
-- [4 Days with OpenClaw: I Got an AI Assistant](https://sonim1.com/en/blog/openclaw-4-days-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
