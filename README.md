@@ -49,11 +49,11 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Selected for Hanbit Media's 'I Am a Reviewer 2026'](https://sonim1.com/en/blog/reviewer-2026/)
 - [Claude Code /insights - Your Personal AI Coding Report](https://sonim1.com/en/blog/claude-code-insights/)
 - [Claude Code Agent Teams: The Beginning of Real-time Agent Collaboration](https://sonim1.com/en/blog/claude-code-agent-teams/)
 - [If You're Avoiding AI Tools Because of Security Concerns](https://sonim1.com/en/blog/ai-security-concerns/)
 - [$50 Credit for Claude Opus 4.6 Launch: What You Need to Know](https://sonim1.com/en/blog/claude-opus-4-6-credit/)
-- [Oh My ClaudeCode: Legal Doping for Claude Code](https://sonim1.com/en/blog/oh-my-claudecode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
