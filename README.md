@@ -49,11 +49,11 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [VirusTotal: Check File, URL, and IP Maliciousness in One Search](https://sonim1.com/en/blog/virustotal/)
+- [ClawHub Malicious Skills Discovered in Bulk: What OpenClaw Users Must Check](https://sonim1.com/en/blog/clawhub-malicious-skills-openclaw-users/)
 - [AI Agent Loops: Ralph and Sisyphus](https://sonim1.com/en/blog/ai-agent-loops-ralph-sisyphus/)
 - [Claude Code Agent Teams: The Beginning of Real-time Agent Collaboration](https://sonim1.com/en/blog/claude-code-agent-teams/)
 - [Selected for Hanbit Media's 'I Am a Reviewer 2026'](https://sonim1.com/en/blog/reviewer-2026/)
-- [Claude Code /insights - Your Personal AI Coding Report](https://sonim1.com/en/blog/claude-code-insights/)
-- [If You're Avoiding AI Tools Because of Security Concerns](https://sonim1.com/en/blog/ai-security-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
