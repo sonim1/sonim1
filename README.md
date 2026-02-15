@@ -49,11 +49,11 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [One Year Without Coffee](https://sonim1.com/en/blog/one-year-without-coffee/)
+- [Git Force Push, the Safe Way](https://sonim1.com/en/blog/git-force-push-safely/)
 - [Oh My Claude - Ralplan Deep Dive](https://sonim1.com/en/blog/ralplan/)
 - [VirusTotal: Check File, URL, and IP Maliciousness in One Search](https://sonim1.com/en/blog/virustotal/)
 - [ClawHub Malicious Skills Discovered in Bulk: What OpenClaw Users Must Check](https://sonim1.com/en/blog/clawhub-malicious-skills-openclaw-users/)
-- [AI Agent Loops: Ralph and Sisyphus](https://sonim1.com/en/blog/ai-agent-loops-ralph-sisyphus/)
-- [Claude Code Agent Teams: The Beginning of Real-time Agent Collaboration](https://sonim1.com/en/blog/claude-code-agent-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
