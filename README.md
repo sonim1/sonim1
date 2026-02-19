@@ -49,11 +49,11 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Book Review] The Software Engineer's Guidebook - A Book That Made Me Reflect on My Career](https://sonim1.com/en/blog/software-engineer-guidebook-review/)
 - [Why AI Gives You a Headache: Managing Cognitive Fatigue for Developers](https://sonim1.com/en/blog/ai-coding-headache/)
 - [One Year Without Coffee](https://sonim1.com/en/blog/one-year-without-coffee/)
 - [Git Force Push, the Safe Way](https://sonim1.com/en/blog/git-force-push-safely/)
 - [Oh My Claude - Ralplan Deep Dive](https://sonim1.com/en/blog/ralplan/)
-- [VirusTotal: Check File, URL, and IP Maliciousness in One Search](https://sonim1.com/en/blog/virustotal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
