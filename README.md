@@ -51,7 +51,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Using git worktree for parallel AI agent development](https://sonim1.com/en/blog/git-worktree-for-parallel-ai-agents/)
 - [fractional-indexing: Implementing Drag-and-Drop Ordering and Avoiding Index Collisions](https://sonim1.com/en/blog/fractional-indexing/)
-- [[Book Review] The Minimalist Programmer](https://sonim1.com/en/blog/minimalist-programmer-review/)
+- [[Book Review] Simplicity: Sustainable, Humane, and Effective Software Development](https://sonim1.com/en/blog/minimalist-programmer-review/)
 - [How Many Tokens I Used in February 2026](https://sonim1.com/en/blog/how-many-tokens-i-used-in-february-2026/)
 - [[Book Review] The Math Behind AI](https://sonim1.com/en/blog/review-ai-math-story/)
 <!-- BLOG-POST-LIST:END -->
