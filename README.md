@@ -49,11 +49,11 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Codex Fast Mode vs Claude Fast Mode: What’s Actually Different?](https://sonim1.com/en/blog/codex-fast-mode-vs-claude-fast-mode/)
 - [Using git worktree for parallel AI agent development](https://sonim1.com/en/blog/git-worktree-for-parallel-ai-agents/)
 - [fractional-indexing: Implementing Drag-and-Drop Ordering and Avoiding Index Collisions](https://sonim1.com/en/blog/fractional-indexing/)
 - [[Book Review] Simplicity: Sustainable, Humane, and Effective Software Development](https://sonim1.com/en/blog/minimalist-programmer-review/)
 - [How Many Tokens I Used in February 2026](https://sonim1.com/en/blog/how-many-tokens-i-used-in-february-2026/)
-- [[Book Review] The Math Behind AI](https://sonim1.com/en/blog/review-ai-math-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
