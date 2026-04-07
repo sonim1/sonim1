@@ -32,10 +32,13 @@
 
 ---
 
-<h3 align="center">📊 AI Usage Embed from 2026.02</h3>
+<h3 align="center">📊 AI Usage Stats</h3>
 
 <div align="center">
+  
 [![Tokscale Stats](https://tokscale.ai/api/embed/sonim1/svg?compact=1)](https://tokscale.ai/u/sonim1)
+
+Tracking since Feb 2026
 </div>
 
 ---
