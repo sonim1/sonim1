@@ -38,7 +38,10 @@
   
 [![Tokscale Stats](https://tokscale.ai/api/embed/sonim1/svg?compact=1)](https://tokscale.ai/u/sonim1)
 
-Tracking since Feb 2026
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Personal_use_only-since_Feb_2026-blue" />
+</p>
+
 </div>
 
 ---
