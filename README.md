@@ -63,7 +63,7 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [[Book Review] The History of the AI Era Through Semiconductors](https://sonim1.com/en/blog/history-of-the-ai-era-through-semiconductors/)
+- [[Book Review] AI Semiconductor Industry at a Glance](https://sonim1.com/en/blog/history-of-the-ai-era-through-semiconductors/)
 - [JavaScript Temporal API — finally fixing 30 years of Date pain](https://sonim1.com/en/blog/javascript-temporal-api-fixes-date-after-30-years/)
 - [Codex Fast Mode vs Claude Fast Mode: What’s Actually Different?](https://sonim1.com/en/blog/codex-fast-mode-vs-claude-fast-mode/)
 - [Using git worktree for parallel AI agent development](https://sonim1.com/en/blog/git-worktree-for-parallel-ai-agents/)
