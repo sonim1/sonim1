@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[`Website`](https://sonim1.com/) · [`YouTube`](https://www.youtube.com/user/bumfoo) · [`LinkedIn`](https://linkedin.com/in/sonim1) · [`Email`](mailto:bumfoo@gmail.com)
+[`Website`](https://sonim1.com/) · [`YouTube`](https://www.youtube.com/user/bumfoo) · [`LinkedIn`](https://linkedin.com/in/sonim1) · [`Email`](mailto:bumfoo@gmail.com) · [`Dev.to`](https://dev.to/sonim1)
 
 </div>
 
