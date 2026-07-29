@@ -63,11 +63,11 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Book Review] Korea's KOSPI at a Glance](https://sonim1.com/en/blog/review-overview-of-korea-kospi/)
 - [[Book Review] AI Vibe Coding Guide for Today's Teachers with the 2022 Revised Curriculum](https://sonim1.com/en/blog/review-ai-vibe-coding-guide-with-2022-revised-curriculum/)
 - [Token Saving, and Caveman](https://sonim1.com/en/blog/thoughts-on-caveman/)
 - [How Superpowers Forces Skill Execution](https://sonim1.com/en/blog/superpowers-skill-enforcement-mechanism/)
 - [[Book Review] Visualizing Generative AI](https://sonim1.com/en/blog/review-visualizing-generative-ai/)
-- [Do Agents Dream of Electric Sheep? On Soul and Dreaming](https://sonim1.com/en/blog/do-agents-dream-of-electric-sheep-soul-and-dreaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
