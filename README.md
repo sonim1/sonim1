@@ -63,11 +63,11 @@
 <h3 align="center">Latest Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Course Review] Learning Vibe Coding with Claude Code](https://sonim1.com/en/blog/review-vibe-coding-with-claude-code-course/)
 - [[Book Review] Parenting in the AI Era](https://sonim1.com/en/blog/review-parenting-in-the-ai-era/)
 - [[Book Review] Korea's KOSPI at a Glance](https://sonim1.com/en/blog/review-overview-of-korea-kospi/)
 - [[Book Review] AI Vibe Coding Guide for Today's Teachers with the 2022 Revised Curriculum](https://sonim1.com/en/blog/review-ai-vibe-coding-guide-with-2022-revised-curriculum/)
 - [Token Saving, and Caveman](https://sonim1.com/en/blog/thoughts-on-caveman/)
-- [How Superpowers Forces Skill Execution](https://sonim1.com/en/blog/superpowers-skill-enforcement-mechanism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
